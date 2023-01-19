@@ -98,7 +98,7 @@ button{
 .pozadina{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(slike/pozadina.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(pozadina.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -211,7 +211,7 @@ p{
 .kontakt{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(slike/banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(banner.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -260,7 +260,7 @@ p{
 .biografija{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(slike/o\ meni.avif);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(o\ meni.avif);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -293,7 +293,7 @@ p{
 .kontaktkartica{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(slike/nazovi.avif);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(nazovi.avif);
     background-position: bottom;
     background-size: cover;
     text-align: center;
@@ -345,7 +345,7 @@ p{
 .usluge{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(slike/usluge.avif);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(usluge.avif);
     background-position:center;
     background-size: cover;
     text-align: center;
@@ -359,7 +359,7 @@ p{
 .laserskadioptrija{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(slike/laserska.avif);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(laserska.avif);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -379,7 +379,7 @@ p{
 .starackadalek{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(slike/stardem.avif);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(stardem.avif);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -399,7 +399,7 @@ p{
 .mrena{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(slike/mrena.avif);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(mrena.avif);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -421,7 +421,7 @@ p{
 .ugradnjalece{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(slike/leca.avif);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(leca.avif);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
